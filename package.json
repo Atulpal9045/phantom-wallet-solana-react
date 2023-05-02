@@ -5,7 +5,7 @@
   "dependencies": {
     "@solana/wallet-adapter-base": "^0.9.13",
     "@solana/wallet-adapter-phantom": "^0.9.12",
-    "@solana/wallet-adapter-react": "^0.15.13",
+    "@solana/wallet-adapter-react": "^0.15.32",
     "@solana/wallet-adapter-react-ui": "^0.9.13",
     "@solana/wallet-adapter-wallets": "^0.18.1",
     "@testing-library/jest-dom": "^5.16.5",
